@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>partialautomation!</h2>
+<h2>webhook-trigger</h2>
 </body>
 </html>
